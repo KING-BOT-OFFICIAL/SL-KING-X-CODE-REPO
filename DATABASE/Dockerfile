@@ -1,6 +1,6 @@
 FROM node:latest
 
-RUN git clone https://github.com/KING-BOT-OFFICIAL/SL-KING-X-MD-WA-BOT /root/slkingx
+RUN git clone https://github.com/KING-BOT-OFFICIAL/SL-KING-X-MD-BOT /root/slkingx
 WORKDIR /root/slkingx/
 ENV TZ=Europe/Istanbul
 RUN yarn add supervisor -g
