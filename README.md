@@ -8,5 +8,5 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@KING-BOT-OFFICIAL/SL-KING-BOT-MD-QR-GEN?v-1?outputonly=1&lite=1)
 
 ### Deploy Page
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KING-BOT-OFFICIAL/SL-KING-X-MD-Installer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KING-BOT-OFFICIAL/SL-KING-X-MD-WA-BOT)
 </div>
